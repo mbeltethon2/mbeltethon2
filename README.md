@@ -2,7 +2,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b> [Active Directory Home Lab] (https://github.com/mbeltethon2/laburl)</b>
+- <b> [Active Directory Home Lab] {https://github.com/mbeltethon2/ActiveDirectoryLab/tree/main}</b>
 
 <h2> Certifications:</h2>
 
